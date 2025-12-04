@@ -1,6 +1,6 @@
 Library System
 
-## Compile with:
+# Compile with:
 g++ -std=gnu++17 -Wall -Wextra -O2 -o library main.cpp
 
 # Run with:
@@ -8,7 +8,7 @@ library.exe
 
 (Всички .h файлове се включват автоматично от main.cpp)
 
-##Files
+# Files
 - Author.h – автори
 - Book.h – книги (Rule of 5, статичен член)
 - Member.h – читатели
@@ -18,7 +18,7 @@ library.exe
 - README.md – Тези инструкции
 
 
-##Example run ->
+# Example run ->
 
 Books: 2, Members: 1, Active loans: 0
 Loan created for id-001.
