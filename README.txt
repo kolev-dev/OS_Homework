@@ -1,9 +1,9 @@
 Library System
 
-##Compile with:
+## Compile with:
 g++ -std=gnu++17 -Wall -Wextra -O2 -o library main.cpp
 
-##Run with:
+# Run with:
 library.exe
 
 (Всички .h файлове се включват автоматично от main.cpp)
